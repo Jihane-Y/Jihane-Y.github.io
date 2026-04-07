@@ -78,10 +78,8 @@
                     <h3 class="text-white font-weight-normal mb-3">Je suis</h3>
                     <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff;">Jihane YAKACHE</h1>
                     <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
-                    <div class="typed-text d-none">Étudiante en Techniques de Commercialisation</div>
+                    <div class="typed-text d-none">Candidate à la Licence Professionnelle Gestion de la Production Audiovisuelle </div>
                     <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
-                        <a href="img/CV.YAKACHE.Jihane.pdf" class="btn btn-outline-light mr-5">Télécharger mon CV</a>
-						<a href="img/LM.YAKACHE.Jihane.pdf" class="btn btn-outline-light mr-5">Télécharger ma Lettre de motivation</a>
                         <button type="button" class="btn-play" data-toggle="modal"
                             data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
                             <span></span>
