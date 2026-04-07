@@ -109,7 +109,7 @@
                     <h3 class="mb-4"> Actuellement, étudiante en BUT Techniques de Commercialisation à l'IUT Montpellier - Sète
 				</h3>
                     <p>Bonjour et merci de votre visite ! 👋
-Je m'appelle Jihane YAKACHE, étudiante en BUT Techniques de Commercialisation. Sur ce site, vous découvrirez mes projets, mes expériences, et mes compétences développées soigneusement au fil de mon parcours à la fois académique et professionel. N'hésitez pas à parcourir mes réalisations et à me contacter si vous souhaitez en savoir plus ou discuter d'une collaboration.</p>
+Je m'appelle Jihane YAKACHE, étudiante en BUT Techniques de Commercialisation. Ce site a été créé lors de ma deuxième année! Il n’est aujourd’hui plus actualisé, mais il me représente en attendant le développement d’un second. Ici, vous découvrirez mes projets, mes expériences, et mes compétences développées au fil de mon parcours à la fois académique et professionel. N'hésitez pas à parcourir mes réalisations et à me contacter si vous souhaitez en savoir plus ou discuter d'une collaboration.</p>
                     <div class="row mb-3">
                         <div class="col-sm-6 py-2"><h6>Nom: <span class="text-secondary">Jihane YAKACHE</span></h6></div>
                         <div class="col-sm-6 py-2"><h6>Date de Naissance: <span class="text-secondary">19 mai 2005</span></h6></div>
@@ -140,7 +140,7 @@ Je m'appelle Jihane YAKACHE, étudiante en BUT Techniques de Commercialisation. 
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
                             <h5 class="font-weight-bold mb-1">BUT Techniques de Commercialisation </h5>
                             <p class="mb-2"><strong>IUT de Montpellier - France </strong> | <small>2023 à Aujourd'hui</small></p>
-                            <p> Spécialisation en Marketing Digital et e-entreprenariat, deuxième année actuellement en cours.</p>
+                            <p> Spécialisation en Marketing Digital et e-entreprenariat, troisième année actuellement en cours.</p>
                         </div>
                         <div class="position-relative mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
