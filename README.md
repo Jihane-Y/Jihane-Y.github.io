@@ -106,7 +106,7 @@
 <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=99%20Av.%20d'Occitanie,%2034090%20Montpellier+(IUT%20Montpellier%20-%20Sete%20)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps tracker sport</a></iframe></div>
                 </div>
                 <div class="col-lg-7">
-                    <h3 class="mb-4">Étudiante en BUT Techniques de Commercialisation à l'IUT Montpellier - Sète
+                    <h3 class="mb-4"> Actuellement, étudiante en BUT Techniques de Commercialisation à l'IUT Montpellier - Sète
 				</h3>
                     <p>Bonjour et merci de votre visite ! 👋
 Je m'appelle Jihane YAKACHE, étudiante en BUT Techniques de Commercialisation. Sur ce site, vous découvrirez mes projets, mes expériences, et mes compétences développées soigneusement au fil de mon parcours à la fois académique et professionel. N'hésitez pas à parcourir mes réalisations et à me contacter si vous souhaitez en savoir plus ou discuter d'une collaboration.</p>
